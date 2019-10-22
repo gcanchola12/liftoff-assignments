@@ -25,6 +25,6 @@ The technologies it will use are:
 5. Javascript
 
 ### What I'll Have to Learn
-I will need to learn Javascript.
+I will need to learn Javascript and how to add a swipe feature (if I can).
 ### Project Tracker
 https://trello.com/b/yGQnXlEk/asmr-playlist
