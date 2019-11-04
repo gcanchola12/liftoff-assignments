@@ -8,12 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+Includes all my wireframes. 
+https://xd.adobe.com/spec/1070928d-83db-40e8-709b-db3119465e19-6641/
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/yGQnXlEk/asmr-playlist
+
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+git@github.com:gcanchola12/my-asmr-playlist-2.git
